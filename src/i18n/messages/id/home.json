@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "eyebrow": "BERBAGI KADO, JADI MUDAH",
+    "title": "Hampers dan Kado untuk Setiap Momen",
+    "description": "Belanja hampers siap pesan, buat gift box custom, atau rencanakan kado untuk tim dan klien Anda.",
+    "buttons": {
+      "shop": "Belanja Hampers Siap Kirim",
+      "create": "Buat Kado Custom"
+    }
+  },
+  "shoppingPath": {
+    "eyebrow": "MULAI DI SINI",
+    "title": "Pilih Cara Belanja Anda",
+    "description": "Pilih kado untuk satu orang atau rencanakan pesanan untuk bisnis Anda.",
+    "options": {
+      "personal": {
+        "label": "Quick Hampers, Custom Hampers & Kado Personalized",
+        "cta": "Lihat Kado Personal →"
+      },
+      "corporate": {
+        "label": "Hampers Corporate, Merchandise & Employee Kit",
+        "cta": "Lihat Corporate →"
+      }
+    }
+  },
+  "popularHampers": {
+    "eyebrow": "SIAP DIPESAN",
+    "title": "Hampers Terpopuler",
+    "description": "Jelajahi hampers siap pesan untuk ulang tahun, ucapan terima kasih, dan momen lainnya."
+  },
+  "occasions": {
+    "eyebrow": "CARI BERDASARKAN MOMEN",
+    "title": "Momen Spesial",
+    "description": "Temukan kado untuk ulang tahun, bridal shower, perpisahan, dan momen lainnya.",
+    "items": {
+      "birthdayHer": "Ulang Tahun untuk Wanita",
+      "birthdayHim": "Ulang Tahun untuk Pria",
+      "farewell": "Perpisahan",
+      "bridalShower": "Bridal Shower"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "CARA KERJA",
+    "title": "Cara Memesan Kado",
+    "description": "Pilih kado, lengkapi detailnya, lalu buat pesanan Anda.",
+    "steps": {
+      "choose": {
+        "title": "Pilih Kado",
+        "description": "Pilih hampers siap kirim atau jelajahi opsi custom."
+      },
+      "message": {
+        "title": "Tambahkan Pesan",
+        "description": "Tambahkan pesan kado jika produk atau halaman checkout menyediakan opsi tersebut."
+      },
+      "order": {
+        "title": "Buat Pesanan",
+        "description": "Isi data penerima dan detail pengiriman yang diminta saat checkout."
+      }
+    }
+  },
+  "corporateGifting": {
+    "eyebrow": "CORPORATE GIFTING",
+    "title": "Kado untuk Tim, Klien, dan Acara",
+    "description": "Merencanakan kado untuk karyawan, klien, atau sebuah acara? Beritahu kami jumlah, budget, dan tanggal pengiriman untuk mendiskusikan pesanan Anda.",
+    "projectSubtitle": "Merchandise Corporate oleh Studiokado",
+    "cta": "Lihat Corporate Gifting →"
+  },
+  "brideStory": {
+    "eyebrow": "Studiokado x Bride Story",
+    "title": "Beyond Forward",
+    "description": "Berkolaborasi dengan Bride Story, koleksi spesial ini dirancang untuk menemani momen paling berarti dalam hidup — lamaran, pernikahan, dan segala momen di antaranya. Perayaan cinta yang dikurasi dengan indah.",
+    "cta": "Selengkapnya"
+  },
+  "testimonials": {
+    "amanda": {
+      "quote": "Kualitasnya melebihi ekspektasi kami. Branding rapi, packaging premium, dan semuanya terkirim tepat waktu.",
+      "role": "Marketing Lead, PT Arunika Digital"
+    },
+    "priya": {
+      "quote": "Studio Kado membuat proyek kado karyawan kami berjalan lancar. Timnya responsif dan hasilnya konsisten.",
+      "role": "HR Manager, PT Nexa Teknologi Indonesia"
+    },
+    "mark": {
+      "quote": "Kadonya terasa eksklusif dan dipikirkan dengan matang. Klien kami sangat mengapresiasi presentasinya.",
+      "role": "Business Development, PT Mahesa Property Group"
+    },
+    "ben": {
+      "quote": "Profesional, efisien, dan mudah diajak bekerja sama. Kami pasti akan berkolaborasi lagi.",
+      "role": "Corporate Communications, PT Svarna Consumer Goods"
+    }
+  },
+  "instagram": {
+    "title": "Studiokado di Instagram",
+    "description": "Lihat produk, packaging, dan ide kado terbaru dari Studiokado."
+  },
+  "journal": {
+    "title": "Ikuti Jurnal Kami",
+    "description": "Baca panduan praktis memilih kado, memesan hampers, dan merencanakan kado corporate.",
+    "articles": {
+      "materials": "Material yang lebih baik menghasilkan gerak yang lebih baik",
+      "trust": "Kepercayaan adalah produk sesungguhnya yang kami bangun",
+      "edge": "Apa itu keunggulan kompetitif",
+      "restraint": "Menahan diri adalah kekuatan, bukan kelemahan"
+    }
+  },
+  "faq": {
+    "returns": {
+      "q": "Bagaimana kebijakan pengembalian Anda?",
+      "a": "Lorem ipsum"
+    },
+    "shipping": {
+      "q": "Berapa lama waktu pengiriman?",
+      "a": "Lorem ipsum"
+    },
+    "international": {
+      "q": "Apakah Anda melayani pengiriman internasional?",
+      "a": "Lorem ipsum"
+    }
+  },
+  "specialEvent": {
+    "title": "Merencanakan Acara Spesial?",
+    "description": "Butuh kado untuk 20, 50, atau bahkan 200 tamu? Kami akan membantu Anda membuat hampers personal untuk setiap momen.",
+    "cta": "Mulai Konsultasi →"
+  }
+}

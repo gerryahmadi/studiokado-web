@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Checkout",
+    "qris": "QRIS Payment"
+  },
+  "shippingDate": {
+    "title": "Shipping Date",
+    "label": "Shipping date"
+  },
+  "billing": {
+    "title": "Billing Details",
+    "signIn": "Sign In",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "newsletter": "Email me with news and offers"
+  },
+  "shipping": {
+    "title": "Shipping Address",
+    "titleMultiple": "Shipping Addresses",
+    "shipTo": "Ship to",
+    "one": {
+      "title": "One address",
+      "description": "Send everything to one recipient."
+    },
+    "multiple": {
+      "title": "Multiple addresses",
+      "description": "Split items between recipients. Each address ships separately.",
+      "customHamper": "A custom hamper ships as one box.",
+      "needsTwo": "Needs at least 2 items in your cart."
+    },
+    "sameAsBilling": "Same as Billing Details",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "notes": "Notes"
+  },
+  "address": {
+    "label": "Address",
+    "placeholder": "Search building, street or area",
+    "searching": "Searching…",
+    "pickSuggestion": "Pick your address from the suggestions to see shipping options.",
+    "province": "Province",
+    "city": "City",
+    "zip": "Zip Code",
+    "notFound": "We couldn't locate that address. Please pick another suggestion.",
+    "addItems": "Add items to this address to see shipping options."
+  },
+  "method": {
+    "title": "Shipping Method",
+    "choose": "Please choose a shipping method.",
+    "loading": "Loading shipping options…",
+    "none": "No shipping options are available for this address.",
+    "enterAddress": "Enter the shipping address to view available shipping methods."
+  },
+  "products": {
+    "title": "Product Details",
+    "pcs": "{count} Pcs",
+    "message": "Message: {message}",
+    "editCart": "Edit cart"
+  },
+  "payment": {
+    "title": "Payment Method",
+    "methods": {
+      "qris": "QRIS",
+      "creditCard": "Credit Card"
+    },
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "addresses": {
+      "one": "{count} address",
+      "other": "{count} addresses"
+    },
+    "recipient": "Recipient {n}",
+    "total": "Total",
+    "processing": "Processing…",
+    "pay": "Pay Now"
+  },
+  "errors": {
+    "checkFields": "Please check the highlighted fields.",
+    "recipient": "Recipient {n}: {message}"
+  },
+  "multi": {
+    "recipient": "Recipient {n}",
+    "items": {
+      "one": "{count} item",
+      "other": "{count} items"
+    },
+    "remove": "Remove",
+    "name": "Recipient Name",
+    "phone": "Phone Number",
+    "itemsFor": "Items for this address",
+    "notAssigned": "{count} not assigned",
+    "addOrRemove": "Add at least one item to this address, or remove it.",
+    "notes": "Notes",
+    "notesPlaceholder": "e.g. Leave at the front desk",
+    "method": "Shipping Method",
+    "add": "Add another address",
+    "assigned": {
+      "one": "{assigned} of {total} items assigned to {count} address",
+      "other": "{assigned} of {total} items assigned to {count} addresses"
+    },
+    "notAssignedYet": "Not assigned yet: {items}",
+    "problemUnassigned": "Assign every item to an address ({count} not assigned yet).",
+    "problemEmpty": "Recipient {list} has no items. Add items or remove the address."
+  },
+  "qris": {
+    "waiting": "Waiting for payment",
+    "complete": "Complete your payment to avoid automatic cancellation.",
+    "timeLeft": "Time left to pay",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds",
+    "codeAlt": "QRIS payment code",
+    "nmid": "NMID: {nmid}",
+    "poweredBy": "Powered by:",
+    "totalBill": "Total Bill"
+  }
+}

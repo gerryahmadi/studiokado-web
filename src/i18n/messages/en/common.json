@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Studiokado | Premium Custom Gift Box & Hampers",
+    "description": "Send your best appreciation through curated custom gift boxes. Premium packaging standards and guaranteed safe delivery.",
+    "titleSuffix": "Studiokado"
+  },
+  "topBar": {
+    "text": "Blooming Raya 🌸 Limited Lebaran Collection –",
+    "cta": "Shop Now"
+  },
+  "nav": {
+    "home": "Studiokado home",
+    "quickHampers": "Quick Hampers",
+    "createHampers": "Create Hampers",
+    "corporateHampers": "Corporate Hampers",
+    "journal": "Journal",
+    "faqs": "FAQs",
+    "trackOrder": "Track Order",
+    "currency": "Currency",
+    "account": "Account",
+    "cart": {
+      "one": "Cart, {count} item",
+      "other": "Cart, {count} items"
+    }
+  },
+  "language": {
+    "label": "Language",
+    "current": "Language: {language}"
+  },
+  "footer": {
+    "columns": {
+      "company": "Company",
+      "help": "Help",
+      "connect": "Connect"
+    },
+    "links": {
+      "aboutUs": "About us",
+      "createHampers": "Create hampers",
+      "corporateHampers": "Corporate hampers",
+      "faqs": "FAQs",
+      "becomeVendor": "Become a vendor",
+      "shipping": "Shipping",
+      "privacy": "Privacy policy",
+      "terms": "Terms of service",
+      "returns": "Return and refunds",
+      "journal": "Journal",
+      "contact": "Contact us",
+      "caseStudies": "Case studies",
+      "careers": "Join our team",
+      "trackOrder": "Track your order"
+    }
+  },
+  "whatsapp": {
+    "cta": "Chat with us"
+  },
+  "carousel": {
+    "previous": "Previous {title}",
+    "next": "Next {title}"
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "What our clients say",
+    "description": "A glimpse of the companies that have partnered with us for thoughtful corporate hampers.",
+    "rating": "5 out of 5 stars",
+    "previous": "Previous testimonial",
+    "next": "Next testimonial"
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Frequently asked questions",
+    "description": "Here are the top questions our clients ask before getting started."
+  }
+}

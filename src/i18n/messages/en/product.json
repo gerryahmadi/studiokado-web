@@ -1,0 +1,20 @@
+{
+  "dimension": "{value} Cm",
+  "description": "Description",
+  "inside": "What's inside",
+  "favorite": "Add to favorites",
+  "showImage": "Show image {n}",
+  "card": {
+    "noNote": "No note or card needed! Just a from/to is fine!",
+    "pick": "Pick a card",
+    "viewAll": "View All",
+    "purchase": "Purchase Now",
+    "add": "Add to Cart",
+    "adding": "Adding…",
+    "added": {
+      "one": "Added to cart ({count} item).",
+      "other": "Added to cart ({count} items)."
+    },
+    "viewCart": "View cart"
+  }
+}

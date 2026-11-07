@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "package": "Buat Hampers – Pilih Box",
+    "items": "Buat Hampers – Pilih Isi",
+    "card": "Buat Hampers – Pilih Kartu",
+    "review": "Buat Hampers – Ringkasan"
+  },
+  "intro": {
+    "package": {
+      "eyebrow": "Mari Mulai dengan",
+      "title": "Box yang Sempurna",
+      "description": "Sebelum pita diikat dan kartu ditulis, pilih box yang akan membawa ungkapan perhatian Anda dengan indah."
+    },
+    "items": {
+      "eyebrow": "Pilih",
+      "title": "Isi yang Menceritakan Kisahnya",
+      "description": "Isi box Anda dengan barang-barang yang membuat kado ini terasa benar-benar personal."
+    },
+    "card": {
+      "eyebrow": "Pilih",
+      "title": "Kartu yang Melengkapi Kisahnya",
+      "description": "Pilih dari koleksi desain eksklusif kami yang telah dikurasi."
+    },
+    "review": {
+      "eyebrow": "Sentuhan Akhir",
+      "title": "",
+      "description": "Periksa kembali pilihan Anda sebelum menyelesaikan box."
+    }
+  },
+  "steps": {
+    "progress": "Progres",
+    "package": "Packaging",
+    "items": "Isi",
+    "card": "Kartu",
+    "review": "Ringkasan"
+  },
+  "items": {
+    "chooseBoxFirst": "Pilih box terlebih dahulu —",
+    "pickPackaging": "pilih packaging Anda",
+    "untilFull": ". Produk bisa ditambahkan sampai box penuh.",
+    "found": {
+      "one": "{count} produk ditemukan",
+      "other": "{count} produk ditemukan"
+    },
+    "noMatch": "Tidak ada produk yang cocok dengan filter ini.",
+    "add": "Tambah ke Box",
+    "doesntFit": "Tidak Muat",
+    "inBox": "{count} di Box",
+    "next": "Lanjut"
+  },
+  "card": {
+    "free": "Gratis",
+    "select": "Pilih Kartu",
+    "complete": "Selesaikan Box"
+  },
+  "review": {
+    "notStarted": "Anda belum mulai membuat hampers.",
+    "chooseBox": "Pilih box",
+    "product": "Produk",
+    "quantity": "Jumlah",
+    "total": "Total",
+    "from": "Dari: {name}",
+    "to": "Untuk: {name}",
+    "message": "Pesan: {message}",
+    "edit": "Ubah",
+    "summary": "Detail Pesanan",
+    "subtotal": "Subtotal",
+    "empty": "Box Anda masih kosong.",
+    "addItems": "Tambah produk"
+  },
+  "bar": {
+    "adding": "Menambahkan…",
+    "box": "Box {name} {size}",
+    "card": "Kartu: {name}",
+    "nothing": "Belum ada yang dipilih.",
+    "currentSize": "Ukuran Box Saat Ini:",
+    "spaceUsed": "Ruang box yang terpakai",
+    "full": "{percent}% terisi",
+    "remove": "Hapus {name}",
+    "detail": "Detail Box"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "Hampers Corporate",
+    "description": "Hampers premium untuk karyawan, klien, mitra bisnis, dan acara perusahaan—sepenuhnya dikustomisasi sesuai brand Anda.",
+    "portfolioTitle": "Portofolio Kado Corporate",
+    "projectTitle": "{project} | Kado Corporate"
+  },
+  "hero": {
+    "eyebrow": "CORPORATE GIFTING PREMIUM",
+    "title": "Hampers Corporate Premium & Kado Bisnis Custom",
+    "description": "Kami membantu perusahaan merancang dan mengirimkan kado berkesan untuk karyawan, klien VIP, dan acara perusahaan. Sampaikan visi Anda, dan kami tangani semuanya mulai dari kurasi hingga pengiriman ke seluruh Indonesia.",
+    "primary": "Minta Penawaran",
+    "secondary": "Unduh Katalog"
+  },
+  "trustedBy": {
+    "label": "DIPERCAYA BRAND TERKEMUKA",
+    "title": "Dipercaya Brand Terkemuka untuk Corporate Gifting B2B"
+  },
+  "whyUs": {
+    "label": "KENAPA STUDIOKADO",
+    "title": "Solusi Corporate Gifting & Fulfillment dari Awal hingga Akhir",
+    "cards": {
+      "brand": {
+        "title": "Disesuaikan dengan Brand Anda",
+        "description": "Kustomisasi penuh mulai dari isi produk, desain packaging, hingga cetak logo dan kartu ucapan perusahaan Anda."
+      },
+      "logistics": {
+        "title": "Logistik & Pengiriman Tanpa Repot",
+        "description": "Punya ratusan penerima di kota yang berbeda? Berikan datanya, dan kami yang mengatur pengemasan hingga pengiriman multi-alamat dengan aman."
+      },
+      "manager": {
+        "title": "Account Manager Khusus",
+        "description": "Satu pintu komunikasi yang proaktif untuk memastikan timeline, budget, dan proses produksi pesanan massal (bulk orders) Anda berjalan sempurna."
+      }
+    }
+  },
+  "customGifts": {
+    "label": "YANG KAMI BUAT",
+    "title": "Gift Box Custom & Merchandise Bermerek untuk Setiap Momen",
+    "description": "Beritahu kami tujuan acara Anda, dan kami akan merancang opsi gifting yang paling relevan dengan audiens dan anggaran perusahaan Anda.",
+    "cta": "Ceritakan Kebutuhan Anda →"
+  },
+  "orderDetails": {
+    "label": "DETAIL PESANAN",
+    "title": "Pesanan Massal: Harga Transparan, MOQ, & Waktu Produksi",
+    "cards": {
+      "moq": {
+        "title": "Minimum Order (MOQ)",
+        "description": "Mulai dari [50] unit per desain untuk hampers custom."
+      },
+      "pricing": {
+        "title": "Harga",
+        "description": "Penawaran disesuaikan berdasarkan pilihan produk, tingkat packaging, dan jumlah pesanan."
+      },
+      "leadTime": {
+        "title": "Waktu Produksi",
+        "description": "Umumnya [14–21 hari] produksi setelah desain disetujui, tergantung volume pesanan."
+      }
+    }
+  },
+  "merchandise": {
+    "label": "MERCHANDISE",
+    "title": "Yang Kami Buat",
+    "description": "Jelajahi beragam merchandise corporate yang bisa dikustomisasi dan solusi gifting premium kami.",
+    "cta": "Lihat Merchandise Lainnya →"
+  },
+  "reach": {
+    "label": "JANGKAUAN KAMI",
+    "title": "Berbagi Kado Tanpa Batas",
+    "description": "Jangkauan kami mencakup 17+ negara, menghubungkan bisnis dengan klien, mitra, dan tim mereka dari Indonesia hingga Amerika Serikat, Singapura, Australia, Eropa, dan lainnya."
+  },
+  "specialists": {
+    "title": "Butuh Bantuan Memilih Kado Corporate yang Tepat?",
+    "description": "Spesialis corporate gifting kami siap membantu Anda",
+    "cta": "Chat via WhatsApp →",
+    "people": {
+      "adyn": {
+        "role": "Sales Internasional & MNC",
+        "description": "Membantu perusahaan multinasional, klien internasional, dan kantor regional dengan solusi corporate gifting yang disesuaikan."
+      },
+      "dea": {
+        "role": "Sales Pemerintahan",
+        "description": "Membantu instansi pemerintah, kementerian, Badan Usaha Milik Negara (BUMN), dan organisasi sektor publik dalam kebutuhan corporate gifting dan pengadaan."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portofolio Kado Corporate",
+    "description": "Jelajahi proyek corporate gifting custom yang kami buat untuk brand-brand terkemuka di berbagai industri.",
+    "cta": "Minta Konsultasi"
+  },
+  "projectDetail": {
+    "back": "Kembali ke Portofolio",
+    "related": "Proyek Terkait"
+  }
+}

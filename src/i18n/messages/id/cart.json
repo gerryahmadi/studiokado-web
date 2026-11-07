@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Keranjang"
+  },
+  "empty": {
+    "title": "Keranjang Anda masih kosong",
+    "description": "Temukan hampers favorit Anda dan hampers itu akan muncul di sini.",
+    "cta": "Belanja Quick Hampers"
+  },
+  "columns": {
+    "product": "Produk",
+    "qty": "Jumlah",
+    "subtotal": "Subtotal"
+  },
+  "greetingCard": "Kartu ucapan",
+  "from": "Dari: {name}",
+  "to": "Untuk: {name}",
+  "remove": "Hapus",
+  "giftMessage": "Pesan Kado",
+  "giftMessageFor": "Pesan kado untuk {name}",
+  "summary": {
+    "title": "Detail Pesanan",
+    "totalPrice": {
+      "one": "Total Harga ({count} Produk)",
+      "other": "Total Harga ({count} Produk)"
+    },
+    "platformFee": "Biaya platform",
+    "discount": "Diskon Produk",
+    "total": "Total"
+  },
+  "checkout": "Checkout",
+  "checkoutMultiple": "Checkout ke Beberapa Alamat"
+}

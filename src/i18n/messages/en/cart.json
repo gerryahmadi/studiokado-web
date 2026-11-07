@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Cart"
+  },
+  "empty": {
+    "title": "Your cart is empty",
+    "description": "Find a hamper you love and it will show up here.",
+    "cta": "Shop Quick Hampers"
+  },
+  "columns": {
+    "product": "Product",
+    "qty": "Qty",
+    "subtotal": "Sub Total"
+  },
+  "greetingCard": "Greeting card",
+  "from": "From: {name}",
+  "to": "To: {name}",
+  "remove": "Remove",
+  "giftMessage": "Gift Message",
+  "giftMessageFor": "Gift message for {name}",
+  "summary": {
+    "title": "Order Details",
+    "totalPrice": {
+      "one": "Total Price ({count} Product)",
+      "other": "Total Price ({count} Products)"
+    },
+    "platformFee": "Platform fee",
+    "discount": "Product Discount",
+    "total": "Total"
+  },
+  "checkout": "Checkout",
+  "checkoutMultiple": "Checkout to Multiple Addresses"
+}

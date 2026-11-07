@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "title": "Corporate Hampers",
+    "description": "Premium hampers designed for employees, clients, business partners, and corporate events—fully customized to reflect your brand.",
+    "portfolioTitle": "Corporate Gift Portfolio",
+    "projectTitle": "{project} | Corporate Gift"
+  },
+  "hero": {
+    "eyebrow": "PREMIUM CORPORATE GIFTING",
+    "title": "Premium Corporate Hampers & Custom Business Gifts",
+    "description": "We help businesses design and deliver memorable gifts for employees, VIP clients, and corporate events. Share your vision, and we’ll handle everything from curation to nationwide delivery.",
+    "primary": "Request a Quote",
+    "secondary": "Download Catalog"
+  },
+  "trustedBy": {
+    "label": "TRUSTED BY LEADING BRANDS",
+    "title": "Trusted by Leading Brands for B2B Corporate Gifting"
+  },
+  "whyUs": {
+    "label": "WHY STUDIOKADO",
+    "title": "End-to-End Corporate Gifting Solutions & Fulfillment",
+    "cards": {
+      "brand": {
+        "title": "Tailored to Your Brand",
+        "description": "Full customization, from the products inside and the packaging design to your company logo and greeting cards."
+      },
+      "logistics": {
+        "title": "Hassle-Free Logistics & Delivery",
+        "description": "Hundreds of recipients in different cities? Send us the list, and we’ll handle packing and multi-address delivery safely."
+      },
+      "manager": {
+        "title": "Dedicated Account Manager",
+        "description": "One proactive point of contact who keeps the timeline, budget, and production of your bulk orders running smoothly."
+      }
+    }
+  },
+  "customGifts": {
+    "label": "WHAT WE CREATE",
+    "title": "Custom Gift Boxes & Branded Merchandise for Every Occasion",
+    "description": "Tell us the purpose of your event, and we’ll design the gifting options that best fit your audience and company budget.",
+    "cta": "Tell Us What You Need →"
+  },
+  "orderDetails": {
+    "label": "ORDER DETAILS",
+    "title": "Bulk Orders: Transparent Pricing, MOQ, & Lead Time",
+    "cards": {
+      "moq": {
+        "title": "Minimum Order (MOQ)",
+        "description": "Starts at [50] units per design for bespoke hampers."
+      },
+      "pricing": {
+        "title": "Pricing",
+        "description": "Custom-quoted based on product selection, packaging tiers, and quantity."
+      },
+      "leadTime": {
+        "title": "Lead Time",
+        "description": "Typically [14–21 days] for production after design approval, depending on order volume."
+      }
+    }
+  },
+  "merchandise": {
+    "label": "MERCHANDISE",
+    "title": "What We Create",
+    "description": "Explore our range of customizable corporate merchandise and premium gifting solutions.",
+    "cta": "View More Merchandise →"
+  },
+  "reach": {
+    "label": "OUR REACH",
+    "title": "Gifting Beyond Borders",
+    "description": "Our reach extends across 17+ countries, connecting businesses with their clients, partners, and teams from Indonesia to the USA, Singapore, Australia, Europe, and beyond."
+  },
+  "specialists": {
+    "title": "Need Help Choosing the Right Corporate Gift?",
+    "description": "Our corporate gifting specialists are ready to assist you",
+    "cta": "Chat via WhatsApp →",
+    "people": {
+      "adyn": {
+        "role": "Sales International & MNC",
+        "description": "Assisting multinational companies, international clients, and regional offices with customized corporate gifting solutions."
+      },
+      "dea": {
+        "role": "Government Sales",
+        "description": "Assisting government institutions, ministries, state-owned enterprises (BUMN), and public sector organizations with corporate gifting and procurement needs."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Corporate Gift Portfolio",
+    "description": "Explore custom corporate gifting projects crafted for leading brands across industries.",
+    "cta": "Request a Consultation"
+  },
+  "projectDetail": {
+    "back": "Back to Portfolio",
+    "related": "Related Project"
+  }
+}

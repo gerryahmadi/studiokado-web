@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Gifting Inquiry"
+  },
+  "title": "Tell Us About Your Gifting Needs",
+  "description": "Complete the form below, and our gifting consultant will contact you within 1×24 hours to recommend the best gifting solution for your budget and occasion.",
+  "submit": "Submit Inquiry",
+  "sending": "Sending…",
+  "checkFields": "Please check the highlighted fields.",
+  "success": {
+    "title": "Thank You for Your Inquiry",
+    "cta": "Back to Home"
+  },
+  "groups": {
+    "information": "Information",
+    "orderDetails": "Order Details",
+    "preferences": "Gift Preferences",
+    "tellUsMore": "Tell Us More",
+    "referral": "How did you hear about Studiokado?"
+  },
+  "fields": {
+    "name": "Full name",
+    "phone": "WhatsApp number",
+    "email": "Email",
+    "occasion": "Occasion",
+    "occasionPlaceholder": "Select an occasion",
+    "deliveryDate": "Delivery date",
+    "quantity": "Number of gifts",
+    "budget": "Budget per gift (IDR)",
+    "messagePlaceholder": "Share the recipient, theme, or anything else we should know",
+    "referralPlaceholder": "Select an option"
+  },
+  "options": {
+    "preferences": {
+      "hampers": "Hampers",
+      "giftBox": "Curated Gift Box",
+      "individual": "Individual Gifts",
+      "personalizedName": "Personalized Name",
+      "customCard": "Custom Card",
+      "customPackaging": "Customized Packaging",
+      "recommendations": "Open to Recommendations"
+    },
+    "occasions": {
+      "birthday": "Birthday",
+      "wedding": "Wedding & Pre-Wedding",
+      "milestone": "Milestone & Achievement",
+      "baby": "Baby & New Family",
+      "farewell": "Farewell",
+      "other": "Other"
+    },
+    "referrals": {
+      "instagram": "Instagram",
+      "google": "Google",
+      "friends": "Friends & Family",
+      "brideStory": "Bride Story",
+      "other": "Other"
+    }
+  }
+}

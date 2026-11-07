@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "title": "Checkout",
+    "qris": "Pembayaran QRIS"
+  },
+  "shippingDate": {
+    "title": "Tanggal Pengiriman",
+    "label": "Tanggal pengiriman"
+  },
+  "billing": {
+    "title": "Detail Penagihan",
+    "signIn": "Masuk",
+    "name": "Nama Lengkap",
+    "email": "Email",
+    "phone": "Nomor Telepon",
+    "newsletter": "Kirimi saya email berisi kabar dan penawaran"
+  },
+  "shipping": {
+    "title": "Alamat Pengiriman",
+    "titleMultiple": "Alamat-Alamat Pengiriman",
+    "shipTo": "Kirim ke",
+    "one": {
+      "title": "Satu alamat",
+      "description": "Kirim semua pesanan ke satu penerima."
+    },
+    "multiple": {
+      "title": "Beberapa alamat",
+      "description": "Bagi produk ke beberapa penerima. Setiap alamat dikirim terpisah.",
+      "customHamper": "Custom hampers dikirim dalam satu box.",
+      "needsTwo": "Butuh minimal 2 produk di keranjang Anda."
+    },
+    "sameAsBilling": "Sama dengan Detail Penagihan",
+    "name": "Nama Lengkap",
+    "phone": "Nomor Telepon",
+    "notes": "Catatan"
+  },
+  "address": {
+    "label": "Alamat",
+    "placeholder": "Cari gedung, jalan, atau area",
+    "searching": "Mencari…",
+    "pickSuggestion": "Pilih alamat Anda dari saran yang muncul untuk melihat opsi pengiriman.",
+    "province": "Provinsi",
+    "city": "Kota",
+    "zip": "Kode Pos",
+    "notFound": "Alamat tersebut tidak dapat ditemukan. Mohon pilih saran lainnya.",
+    "addItems": "Tambahkan produk ke alamat ini untuk melihat opsi pengiriman."
+  },
+  "method": {
+    "title": "Metode Pengiriman",
+    "choose": "Mohon pilih metode pengiriman.",
+    "loading": "Memuat opsi pengiriman…",
+    "none": "Tidak ada opsi pengiriman untuk alamat ini.",
+    "enterAddress": "Masukkan alamat pengiriman untuk melihat metode pengiriman yang tersedia."
+  },
+  "products": {
+    "title": "Detail Produk",
+    "pcs": "{count} Pcs",
+    "message": "Pesan: {message}",
+    "editCart": "Ubah keranjang"
+  },
+  "payment": {
+    "title": "Metode Pembayaran",
+    "methods": {
+      "qris": "QRIS",
+      "creditCard": "Kartu Kredit"
+    },
+    "subtotal": "Subtotal",
+    "shipping": "Ongkos Kirim",
+    "addresses": {
+      "one": "{count} alamat",
+      "other": "{count} alamat"
+    },
+    "recipient": "Penerima {n}",
+    "total": "Total",
+    "processing": "Memproses…",
+    "pay": "Bayar Sekarang"
+  },
+  "errors": {
+    "checkFields": "Mohon periksa kembali kolom yang ditandai.",
+    "recipient": "Penerima {n}: {message}"
+  },
+  "multi": {
+    "recipient": "Penerima {n}",
+    "items": {
+      "one": "{count} produk",
+      "other": "{count} produk"
+    },
+    "remove": "Hapus",
+    "name": "Nama Penerima",
+    "phone": "Nomor Telepon",
+    "itemsFor": "Produk untuk alamat ini",
+    "notAssigned": "{count} belum dialokasikan",
+    "addOrRemove": "Tambahkan minimal satu produk ke alamat ini, atau hapus alamatnya.",
+    "notes": "Catatan",
+    "notesPlaceholder": "mis. Titipkan di resepsionis",
+    "method": "Metode Pengiriman",
+    "add": "Tambah alamat lain",
+    "assigned": {
+      "one": "{assigned} dari {total} produk dialokasikan ke {count} alamat",
+      "other": "{assigned} dari {total} produk dialokasikan ke {count} alamat"
+    },
+    "notAssignedYet": "Belum dialokasikan: {items}",
+    "problemUnassigned": "Alokasikan setiap produk ke sebuah alamat ({count} belum dialokasikan).",
+    "problemEmpty": "Penerima {list} belum punya produk. Tambahkan produk atau hapus alamatnya."
+  },
+  "qris": {
+    "waiting": "Menunggu pembayaran",
+    "complete": "Selesaikan pembayaran Anda agar pesanan tidak dibatalkan otomatis.",
+    "timeLeft": "Sisa waktu pembayaran",
+    "hours": "Jam",
+    "minutes": "Menit",
+    "seconds": "Detik",
+    "codeAlt": "Kode pembayaran QRIS",
+    "nmid": "NMID: {nmid}",
+    "poweredBy": "Didukung oleh:",
+    "totalBill": "Total Tagihan"
+  }
+}

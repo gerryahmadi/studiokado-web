@@ -1,0 +1,20 @@
+{
+  "dimension": "{value} cm",
+  "description": "Deskripsi",
+  "inside": "Isi di dalamnya",
+  "favorite": "Tambah ke favorit",
+  "showImage": "Tampilkan gambar {n}",
+  "card": {
+    "noNote": "Tidak perlu catatan atau kartu! Cukup dari/untuk saja!",
+    "pick": "Pilih kartu",
+    "viewAll": "Lihat Semua",
+    "purchase": "Beli Sekarang",
+    "add": "Tambah ke Keranjang",
+    "adding": "Menambahkan…",
+    "added": {
+      "one": "Ditambahkan ke keranjang ({count} item).",
+      "other": "Ditambahkan ke keranjang ({count} item)."
+    },
+    "viewCart": "Lihat keranjang"
+  }
+}

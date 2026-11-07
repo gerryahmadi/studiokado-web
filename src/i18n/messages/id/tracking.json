@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "Lacak Pesanan",
+    "notFoundTitle": "Pesanan Tidak Ditemukan"
+  },
+  "title": "Lacak Pesanan",
+  "description": "Lacak perjalanan kado Anda dengan memasukkan nomor resi atau nomor pesanan di bawah ini.",
+  "hint": "Tidak menemukan nomor resi Anda? Cek email konfirmasi pesanan.",
+  "notFound": "Nomor resi tersebut tidak ditemukan. Mohon cek kembali email konfirmasi Anda.",
+  "inputLabel": "Nomor resi atau nomor pesanan",
+  "submit": "Lacak",
+  "result": {
+    "orderInformation": "Informasi Pesanan",
+    "trackingNumber": "No. Resi #{number}",
+    "shipTo": "Dikirim ke:",
+    "deliveryStatus": "Status Pengiriman",
+    "orderNumber": "Pesanan #{number}",
+    "multiple": "Pesanan ini dikirim ke {count} alamat. Setiap paket memiliki kurir dan nomor resi sendiri.",
+    "recipient": "Penerima {position}",
+    "items": "Isi paket",
+    "courier": "Kurir",
+    "awaitingPickup": "Update dari kurir akan muncul di sini setelah paket diambil.",
+    "status": {
+      "waiting": "Sedang disiapkan",
+      "on_delivery": "Dalam pengiriman",
+      "delivered": "Terkirim"
+    }
+  },
+  "events": {
+    "onDelivery": {
+      "title": "Dalam Pengiriman",
+      "description": "Paket Anda telah diambil oleh {courier} di DEPOK."
+    },
+    "processed": {
+      "title": "Diproses",
+      "description": "Pelanggan telah membayar produk dan pesanan sedang diproses."
+    },
+    "paymentSettled": {
+      "title": "Pembayaran Lunas",
+      "description": "Pelanggan telah membayar ongkos kirim."
+    },
+    "waitingPayment": {
+      "title": "Menunggu Pembayaran",
+      "description": "Menunggu pelanggan membayar ongkos kirim."
+    },
+    "orderPlaced": {
+      "title": "Pesanan Dibuat",
+      "description": "Pelanggan telah melakukan checkout produk."
+    },
+    "delivered": {
+      "title": "Terkirim",
+      "description": "Paket telah sampai di tujuan."
+    }
+  },
+  "emailLabel": "Email yang dipakai saat checkout",
+  "error": "Pesanan belum bisa dimuat saat ini. Mohon coba lagi sebentar lagi."
+}

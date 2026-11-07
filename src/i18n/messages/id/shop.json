@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "paged": "{title} - Halaman {page}"
+  },
+  "total": "{count} produk",
+  "filter": "filter",
+  "clearFilters": "Hapus filter",
+  "pagination": "Halaman",
+  "empty": {
+    "title": "Produk tidak ditemukan",
+    "description": "Coba hapus beberapa filter untuk melihat lebih banyak produk."
+  },
+  "soldOut": "Habis",
+  "quantity": {
+    "default": "jumlah",
+    "decrease": "Kurangi {label}",
+    "increase": "Tambah {label}"
+  },
+  "voucher": {
+    "title": "Voucher & Promo",
+    "placeholder": "Masukkan kode voucher",
+    "label": "Kode voucher",
+    "apply": "Pakai",
+    "notice": "Kode voucher akan divalidasi setelah checkout terhubung."
+  },
+  "giftNote": {
+    "from": "Dari",
+    "to": "Untuk",
+    "fromPlaceholder": "Budi Santoso",
+    "toPlaceholder": "Siti Rahayu",
+    "message": "Pesan",
+    "messagePlaceholder": "Tulis pesan kartu Anda di sini. Maksimal {max} karakter",
+    "close": "Tutup"
+  },
+  "related": {
+    "title": "Mungkin Anda juga suka",
+    "cta": "Lihat Koleksi"
+  },
+  "faq": {
+    "title": "Yang Perlu Anda Ketahui",
+    "cta": "Lihat FAQ",
+    "items": {
+      "returns": {
+        "q": "Bagaimana kebijakan pengembalian Anda?",
+        "a": "Lorem ipsum"
+      },
+      "shipping": {
+        "q": "Berapa lama waktu pengiriman?",
+        "a": "Lorem ipsum"
+      },
+      "international": {
+        "q": "Apakah Anda melayani pengiriman internasional?",
+        "a": "Lorem ipsum"
+      }
+    }
+  }
+}

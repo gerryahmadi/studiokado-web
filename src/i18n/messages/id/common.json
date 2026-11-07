@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "title": "Studiokado | Gift Box & Hampers Custom Premium",
+    "description": "Sampaikan apresiasi terbaik Anda melalui gift box custom yang dikurasi dengan cermat. Standar packaging premium dan pengiriman yang dijamin aman.",
+    "titleSuffix": "Studiokado"
+  },
+  "topBar": {
+    "text": "Blooming Raya 🌸 Koleksi Lebaran Terbatas –",
+    "cta": "Belanja Sekarang"
+  },
+  "nav": {
+    "home": "Beranda Studiokado",
+    "quickHampers": "Quick Hampers",
+    "createHampers": "Buat Hampers",
+    "corporateHampers": "Hampers Corporate",
+    "journal": "Jurnal",
+    "faqs": "FAQ",
+    "trackOrder": "Lacak Pesanan",
+    "currency": "Mata uang",
+    "account": "Akun",
+    "cart": {
+      "one": "Keranjang, {count} item",
+      "other": "Keranjang, {count} item"
+    }
+  },
+  "language": {
+    "label": "Bahasa",
+    "current": "Bahasa: {language}"
+  },
+  "footer": {
+    "columns": {
+      "company": "Perusahaan",
+      "help": "Bantuan",
+      "connect": "Terhubung"
+    },
+    "links": {
+      "aboutUs": "Tentang kami",
+      "createHampers": "Buat hampers",
+      "corporateHampers": "Hampers corporate",
+      "faqs": "FAQ",
+      "becomeVendor": "Menjadi vendor",
+      "shipping": "Pengiriman",
+      "privacy": "Kebijakan privasi",
+      "terms": "Ketentuan layanan",
+      "returns": "Pengembalian dan refund",
+      "journal": "Jurnal",
+      "contact": "Hubungi kami",
+      "caseStudies": "Studi kasus",
+      "careers": "Bergabung dengan tim kami",
+      "trackOrder": "Lacak pesanan Anda"
+    }
+  },
+  "whatsapp": {
+    "cta": "Chat dengan kami"
+  },
+  "carousel": {
+    "previous": "{title} sebelumnya",
+    "next": "{title} berikutnya"
+  },
+  "testimonials": {
+    "label": "Testimoni",
+    "title": "Apa kata klien kami",
+    "description": "Sekilas tentang perusahaan-perusahaan yang telah bermitra dengan kami untuk hampers corporate yang berkesan.",
+    "rating": "5 dari 5 bintang",
+    "previous": "Testimoni sebelumnya",
+    "next": "Testimoni berikutnya"
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Pertanyaan yang sering diajukan",
+    "description": "Berikut pertanyaan yang paling sering diajukan klien kami sebelum memulai."
+  }
+}

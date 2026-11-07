@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "package": "Create Hampers – Choose a Box",
+    "items": "Create Hampers – Choose Items",
+    "card": "Create Hampers – Choose a Card",
+    "review": "Create Hampers – Review"
+  },
+  "intro": {
+    "package": {
+      "eyebrow": "Let's Begin With",
+      "title": "The Perfect Box",
+      "description": "Before the ribbon is tied and the card is written, choose the box that carries your thoughtful gesture beautifully."
+    },
+    "items": {
+      "eyebrow": "Choose",
+      "title": "The Pieces That Tell the Story",
+      "description": "Fill your box with the pieces that make this gift feel truly personal."
+    },
+    "card": {
+      "eyebrow": "Choose",
+      "title": "The Card That Completes the Story",
+      "description": "Select from our curated collection of exclusive designs."
+    },
+    "review": {
+      "eyebrow": "Final Touches",
+      "title": "",
+      "description": "Review your selections before completing your box."
+    }
+  },
+  "steps": {
+    "progress": "Progress",
+    "package": "Packaging",
+    "items": "Items",
+    "card": "Card",
+    "review": "Review"
+  },
+  "items": {
+    "chooseBoxFirst": "Choose a box first —",
+    "pickPackaging": "pick your packaging",
+    "untilFull": ". Items are added until the box is full.",
+    "found": {
+      "one": "{count} item found",
+      "other": "{count} items found"
+    },
+    "noMatch": "No items match these filters.",
+    "add": "Add to Box",
+    "doesntFit": "Doesn't Fit",
+    "inBox": "{count} in Box",
+    "next": "Next"
+  },
+  "card": {
+    "free": "Free",
+    "select": "Select Card",
+    "complete": "Complete Box"
+  },
+  "review": {
+    "notStarted": "You haven't started a hamper yet.",
+    "chooseBox": "Choose a box",
+    "product": "Product",
+    "quantity": "Quantity",
+    "total": "Total",
+    "from": "From: {name}",
+    "to": "To: {name}",
+    "message": "Message: {message}",
+    "edit": "Edit",
+    "summary": "Order Details",
+    "subtotal": "Sub Total",
+    "empty": "Your box is empty.",
+    "addItems": "Add items"
+  },
+  "bar": {
+    "adding": "Adding…",
+    "box": "{name} {size} Box",
+    "card": "Card: {name}",
+    "nothing": "Nothing selected yet.",
+    "currentSize": "Current Box Size:",
+    "spaceUsed": "Space used in the box",
+    "full": "{percent}% full",
+    "remove": "Remove {name}",
+    "detail": "Detail Box"
+  }
+}

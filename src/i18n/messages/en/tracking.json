@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "title": "Order Tracking",
+    "notFoundTitle": "Order Not Found"
+  },
+  "title": "Order Tracking",
+  "description": "Track your gift's journey by entering your tracking or order number below.",
+  "hint": "Can't find your tracking number? Check your email confirmation.",
+  "notFound": "We couldn't find that tracking number. Please check your email confirmation.",
+  "inputLabel": "Tracking or order number",
+  "submit": "Track",
+  "result": {
+    "orderInformation": "Order Information",
+    "trackingNumber": "Tracking #{number}",
+    "shipTo": "Ship to:",
+    "deliveryStatus": "Delivery Status",
+    "orderNumber": "Order #{number}",
+    "multiple": "This order ships to {count} addresses. Each package has its own courier and tracking number.",
+    "recipient": "Recipient {position}",
+    "items": "Items",
+    "courier": "Courier",
+    "awaitingPickup": "Courier updates appear here once the package is picked up.",
+    "status": {
+      "waiting": "Being prepared",
+      "on_delivery": "On delivery",
+      "delivered": "Delivered"
+    }
+  },
+  "events": {
+    "onDelivery": {
+      "title": "On Delivery",
+      "description": "Your package has been collected by {courier} in DEPOK."
+    },
+    "processed": {
+      "title": "Processed",
+      "description": "The customer has paid for the products and the order is being processed."
+    },
+    "paymentSettled": {
+      "title": "Payment Settled",
+      "description": "The customer has paid the shipping cost."
+    },
+    "waitingPayment": {
+      "title": "Waiting Payment",
+      "description": "Waiting for the customer to pay for shipping."
+    },
+    "orderPlaced": {
+      "title": "Order Placed",
+      "description": "The customer has checked out the products."
+    },
+    "delivered": {
+      "title": "Delivered",
+      "description": "The package has arrived at its destination."
+    }
+  },
+  "emailLabel": "Email used at checkout",
+  "error": "We couldn't load this order right now. Please try again in a moment."
+}

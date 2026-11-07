@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "paged": "{title} - Page {page}"
+  },
+  "total": "{count} total",
+  "filter": "filter",
+  "clearFilters": "Clear filters",
+  "pagination": "Pagination",
+  "empty": {
+    "title": "No items found",
+    "description": "Try removing some filters to see more items."
+  },
+  "soldOut": "Sold out",
+  "quantity": {
+    "default": "quantity",
+    "decrease": "Decrease {label}",
+    "increase": "Increase {label}"
+  },
+  "voucher": {
+    "title": "Voucher & Promo",
+    "placeholder": "Enter voucher code",
+    "label": "Voucher code",
+    "apply": "Apply",
+    "notice": "Voucher codes will be validated once checkout is connected."
+  },
+  "giftNote": {
+    "from": "From",
+    "to": "To",
+    "fromPlaceholder": "John Smith",
+    "toPlaceholder": "Jane Smith",
+    "message": "Message",
+    "messagePlaceholder": "Enter your card message here. {max} characters max",
+    "close": "Close"
+  },
+  "related": {
+    "title": "You may also like",
+    "cta": "Discover Collection"
+  },
+  "faq": {
+    "title": "Know Before You Go",
+    "cta": "See FAQs",
+    "items": {
+      "returns": {
+        "q": "What’s your return policy?",
+        "a": "Lorem ipsum"
+      },
+      "shipping": {
+        "q": "How long does shipping take?",
+        "a": "Lorem ipsum"
+      },
+      "international": {
+        "q": "Do you ship internationally?",
+        "a": "Lorem ipsum"
+      }
+    }
+  }
+}

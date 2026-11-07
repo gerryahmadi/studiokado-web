@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Konsultasi Kado"
+  },
+  "title": "Ceritakan Kebutuhan Kado Anda",
+  "description": "Lengkapi formulir di bawah ini, dan konsultan gifting kami akan menghubungi Anda dalam 1×24 jam untuk merekomendasikan solusi kado terbaik sesuai budget dan momen Anda.",
+  "submit": "Kirim Permintaan",
+  "sending": "Mengirim…",
+  "checkFields": "Mohon periksa kembali kolom yang ditandai.",
+  "success": {
+    "title": "Terima Kasih atas Permintaan Anda",
+    "cta": "Kembali ke Beranda"
+  },
+  "groups": {
+    "information": "Informasi",
+    "orderDetails": "Detail Pesanan",
+    "preferences": "Preferensi Kado",
+    "tellUsMore": "Ceritakan Lebih Lanjut",
+    "referral": "Dari mana Anda mengetahui Studiokado?"
+  },
+  "fields": {
+    "name": "Nama lengkap",
+    "phone": "Nomor WhatsApp",
+    "email": "Email",
+    "occasion": "Momen",
+    "occasionPlaceholder": "Pilih momen",
+    "deliveryDate": "Tanggal pengiriman",
+    "quantity": "Jumlah kado",
+    "budget": "Budget per kado (IDR)",
+    "messagePlaceholder": "Ceritakan tentang penerima, tema, atau hal lain yang perlu kami ketahui",
+    "referralPlaceholder": "Pilih salah satu"
+  },
+  "options": {
+    "preferences": {
+      "hampers": "Hampers",
+      "giftBox": "Gift Box Pilihan",
+      "individual": "Kado Satuan",
+      "personalizedName": "Nama Personalized",
+      "customCard": "Kartu Custom",
+      "customPackaging": "Packaging Custom",
+      "recommendations": "Terbuka untuk Rekomendasi"
+    },
+    "occasions": {
+      "birthday": "Ulang Tahun",
+      "wedding": "Pernikahan & Pra-Nikah",
+      "milestone": "Pencapaian & Momen Penting",
+      "baby": "Kelahiran & Keluarga Baru",
+      "farewell": "Perpisahan",
+      "other": "Lainnya"
+    },
+    "referrals": {
+      "instagram": "Instagram",
+      "google": "Google",
+      "friends": "Teman & Keluarga",
+      "brideStory": "Bride Story",
+      "other": "Lainnya"
+    }
+  }
+}

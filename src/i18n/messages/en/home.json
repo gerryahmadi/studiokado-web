@@ -1,0 +1,125 @@
+{
+  "hero": {
+    "eyebrow": "GIFTING, MADE SIMPLE",
+    "title": "Hampers and Gifts for Every Occasion",
+    "description": "Shop ready-to-order hampers, create a custom gift box, or plan gifts for your team and clients.",
+    "buttons": {
+      "shop": "Shop Ready Hampers",
+      "create": "Create a Custom Gift"
+    }
+  },
+  "shoppingPath": {
+    "eyebrow": "START HERE",
+    "title": "Choose Your Shopping Path",
+    "description": "Choose a gift for one person or plan an order for your business.",
+    "options": {
+      "personal": {
+        "label": "Quick Hampers, Custom Hampers & Personalized Gifts",
+        "cta": "Explore Personal Gifts →"
+      },
+      "corporate": {
+        "label": "Corporate Hampers, Merchandise & Employee Kits",
+        "cta": "Explore Corporate →"
+      }
+    }
+  },
+  "popularHampers": {
+    "eyebrow": "READY TO ORDER",
+    "title": "Popular Hampers",
+    "description": "Browse ready-to-order hampers for birthdays, thank-yous, and other occasions."
+  },
+  "occasions": {
+    "eyebrow": "BROWSE BY MOMENT",
+    "title": "Occasions",
+    "description": "Browse gifts for birthdays, bridal showers, farewells, and other occasions.",
+    "items": {
+      "birthdayHer": "Birthday for her",
+      "birthdayHim": "Birthday for him",
+      "farewell": "Farewell",
+      "bridalShower": "Bridal Shower"
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "HOW IT WORKS",
+    "title": "How to Order a Gift",
+    "description": "Choose a gift, add the details, and place your order.",
+    "steps": {
+      "choose": {
+        "title": "Choose a Gift",
+        "description": "Pick a ready hamper or explore custom options."
+      },
+      "message": {
+        "title": "Add a Message",
+        "description": "Add a gift message if the product or checkout offers that option."
+      },
+      "order": {
+        "title": "Place Your Order",
+        "description": "Enter the recipient and delivery details requested at checkout."
+      }
+    }
+  },
+  "corporateGifting": {
+    "eyebrow": "CORPORATE GIFTING",
+    "title": "Gifts for Teams, Clients, and Events",
+    "description": "Planning gifts for employees, clients, or an event? Share your quantity, budget, and delivery date to discuss an order.",
+    "projectSubtitle": "Corporate Merchandise by Studiokado",
+    "cta": "Explore Corporate Gifting →"
+  },
+  "brideStory": {
+    "eyebrow": "Studiokado x Bride Story",
+    "title": "Beyond Forward",
+    "description": "In collaboration with Bride Story, this special collection is designed to accompany life’s most meaningful moments — engagements, weddings, and everything in between. A celebration of love, beautifully curated.",
+    "cta": "Learn more"
+  },
+  "testimonials": {
+    "amanda": {
+      "quote": "The quality exceeded our expectations. Clean branding, premium packaging, and everything delivered on time.",
+      "role": "Marketing Lead, PT Arunika Digital"
+    },
+    "priya": {
+      "quote": "Studio Kado made our employee gifting project seamless. Responsive team and consistent results.",
+      "role": "HR Manager, PT Nexa Teknologi Indonesia"
+    },
+    "mark": {
+      "quote": "The gifts felt exclusive and well thought out. Our clients truly appreciated the presentation.",
+      "role": "Business Development, PT Mahesa Property Group"
+    },
+    "ben": {
+      "quote": "Professional, efficient, and easy to work with. We will definitely collaborate again.",
+      "role": "Corporate Communications, PT Svarna Consumer Goods"
+    }
+  },
+  "instagram": {
+    "title": "Studiokado on Instagram",
+    "description": "See recent products, packaging, and gifting ideas from Studiokado."
+  },
+  "journal": {
+    "title": "Follow our Journal",
+    "description": "Read practical guides to choosing gifts, ordering hampers, and planning corporate gifts.",
+    "articles": {
+      "materials": "Better materials make better movement",
+      "trust": "Trust is the real product we build",
+      "edge": "What is a competitive edge",
+      "restraint": "Restraint is a strength, not a weakness"
+    }
+  },
+  "faq": {
+    "returns": {
+      "q": "What’s your return policy?",
+      "a": "Lorem ipsum"
+    },
+    "shipping": {
+      "q": "How long does shipping take?",
+      "a": "Lorem ipsum"
+    },
+    "international": {
+      "q": "Do you ship internationally?",
+      "a": "Lorem ipsum"
+    }
+  },
+  "specialEvent": {
+    "title": "Planning a Special Event?",
+    "description": "Need gifts for 20, 50, or even 200 guests? We'll help you create personalized hampers for every occasion.",
+    "cta": "Start Your Inquiry →"
+  }
+}
