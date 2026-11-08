@@ -93,21 +93,9 @@ export const toGiftCard = (p: ProductSummary): GiftCard => ({
   image: p.image ?? undefined,
 });
 
-// Static "You may also like" placeholder, still used by /cart. TODO: replace with data from the Laravel API.
-const relatedPlaceholder: Product = {
-  brand: "Dotted & Spotted",
-  name: "B5 Softback Spiral Academic Year Diary",
-  price: 590000,
-  comparePrice: 678000,
-  badge: "15% off",
-  image: PRODUCT_PLACEHOLDER_IMAGE,
-  href: "/p/whiskey-business",
-};
-
 export const productPage = {
   related: {
     href: "/quick-hampers",
-    products: Array.from({ length: 4 }, () => relatedPlaceholder),
   },
   faq: {
     href: "/faqs",

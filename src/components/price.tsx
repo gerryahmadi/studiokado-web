@@ -2,6 +2,8 @@
 
 import { BASE_CURRENCY, formatRupiah } from "@/lib/currency";
 import { useCurrency } from "@/lib/currency-store";
+import { useI18n } from "@/i18n/client";
+import { format as formatMessage } from "@/i18n/format";
 
 /** An IDR amount shown in the visitor's chosen currency. Usable from server components. */
 export function Price({ value }: { value: number }) {
@@ -15,12 +17,13 @@ export function Price({ value }: { value: number }) {
  */
 export function IdrChargeNote({ value, mode }: { value: number; mode: "converted" | "estimate" }) {
   const { code, format } = useCurrency();
+  const t = useI18n().t.common.idrNote;
   if (code === BASE_CURRENCY) return null;
   return (
     <p className="text-xs text-neutral-500">
       {mode === "converted"
-        ? `Payment is processed in IDR: ${formatRupiah(value)}. ${code} amounts are estimates.`
-        : `≈ ${format(value)} · Payment is processed in IDR.`}
+        ? formatMessage(t.converted, { idr: formatRupiah(value), currency: code })
+        : formatMessage(t.estimate, { amount: format(value) })}
     </p>
   );
 }

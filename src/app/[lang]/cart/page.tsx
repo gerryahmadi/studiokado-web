@@ -14,7 +14,8 @@ import {
 } from "@/components/ui/accordion";
 import { getDictionary } from "@/i18n/server";
 import { getCart } from "@/lib/cart-actions";
-import { productPage, shopFaqKeys } from "@/lib/product-data";
+import { productPage, shopFaqKeys, toProductCard } from "@/lib/product-data";
+import { getRandomQuickHampers, QUICK_HAMPERS_PATH } from "@/lib/shop-data";
 
 export async function generateMetadata(): Promise<Metadata> {
   const { cart, common } = await getDictionary();
@@ -24,6 +25,7 @@ export async function generateMetadata(): Promise<Metadata> {
 // Dynamic: reads the cart cookie and loads the cart from Laravel on every request.
 export default async function CartPage() {
   const [cart, { shop }] = await Promise.all([getCart(), getDictionary()]);
+  const related = await getRandomQuickHampers(4, cart?.items.map((i) => i.slug) ?? []);
 
   return (
     <>
@@ -34,23 +36,23 @@ export default async function CartPage() {
           <CartView initialCart={cart} />
         </section>
 
-        <section className="px-6 pb-[100px] pt-10 md:px-10">
-          <div className="mx-auto flex w-full max-w-[1380px] flex-col gap-12">
-            <div className="flex items-center justify-between gap-5">
-              <WordReveal as="h2" text={shop.related.title} className="font-heading text-3xl" />
-              <LinkButtonIcon href={productPage.related.href}>
-                {shop.related.cta}
-              </LinkButtonIcon>
+        {related.length > 0 && (
+          <section className="px-6 pb-[100px] pt-10 md:px-10">
+            <div className="mx-auto flex w-full max-w-[1380px] flex-col gap-12">
+              <div className="flex items-center justify-between gap-5">
+                <WordReveal as="h2" text={shop.related.title} className="font-heading text-3xl" />
+                <LinkButtonIcon href={QUICK_HAMPERS_PATH}>{shop.related.cta}</LinkButtonIcon>
+              </div>
+              <div className="grid grid-cols-2 gap-6 lg:grid-cols-4">
+                {related.map((p, i) => (
+                  <Reveal key={p.id} delay={(i % 4) * 0.1}>
+                    <ProductCard product={toProductCard(p)} />
+                  </Reveal>
+                ))}
+              </div>
             </div>
-            <div className="grid grid-cols-2 gap-6 lg:grid-cols-4">
-              {productPage.related.products.map((p, i) => (
-                <Reveal key={i} delay={(i % 4) * 0.1}>
-                  <ProductCard product={p} />
-                </Reveal>
-              ))}
-            </div>
-          </div>
-        </section>
+          </section>
+        )}
 
         <section className="bg-[#fffef5] px-6 pb-[150px] pt-[100px] md:px-12">
           <div className="mx-auto flex w-full max-w-[1240px] flex-col gap-12">

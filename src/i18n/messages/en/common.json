@@ -27,6 +27,10 @@
     "label": "Language",
     "current": "Language: {language}"
   },
+  "idrNote": {
+    "converted": "Payment is processed in IDR: {idr}. {currency} amounts are estimates.",
+    "estimate": "≈ {amount} · Payment is processed in IDR."
+  },
   "footer": {
     "columns": {
       "company": "Company",

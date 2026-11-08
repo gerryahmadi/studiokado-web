@@ -27,6 +27,10 @@
     "label": "Bahasa",
     "current": "Bahasa: {language}"
   },
+  "idrNote": {
+    "converted": "Pembayaran diproses dalam IDR: {idr}. Nominal {currency} hanya perkiraan.",
+    "estimate": "≈ {amount} · Pembayaran diproses dalam IDR."
+  },
   "footer": {
     "columns": {
       "company": "Perusahaan",

@@ -68,6 +68,23 @@ export async function getPopularHampers(): Promise<ProductSummary[]> {
   }
 }
 
+// "You may also like" on /cart: `count` random quick hampers, skipping the slugs already in the cart.
+// Picks from the first page of GET /api/quick-hampers. Returns [] on failure so the cart still renders.
+export async function getRandomQuickHampers(count: number, exclude: string[] = []): Promise<ProductSummary[]> {
+  try {
+    const { products } = await getQuickHampers();
+    const pool = products.filter((p) => !exclude.includes(p.slug));
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+    return pool.slice(0, count);
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
+}
+
 // Copy (empty state, filter labels) lives in the `shop` dictionary.
 export const shopPage = {
   banner: "/images/home/summer-banner.png",
